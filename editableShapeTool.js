@@ -1,6 +1,6 @@
 function editableShapeTool(){
 	//set an icon and a name for the object
-	this.icon = "assets/editableShapeTool.png";
+	this.icon = "assets/editableShapeTool.PNG";
 	this.name = "editableShapeTool";
     
     var editButton;
